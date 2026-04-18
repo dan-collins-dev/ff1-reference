@@ -1,0 +1,23 @@
+{
+  "name": "ff1-reference",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/dan-collins-dev/ff1-reference#readme",
+  "bugs": {
+    "url": "https://github.com/dan-collins-dev/ff1-reference/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan-collins-dev/ff1-reference.git"
+  },
+  "license": "ISC",
+  "author": "Dan Collins",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
