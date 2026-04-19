@@ -1,0 +1,326 @@
+[
+    {
+        "id": 0,
+        "name": "Clothes",
+        "buyPrice": 8,
+        "sellPrice": 4,
+        "defense": 1,
+        "weight": 2,
+        "accuracy": 0,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Thief",
+            "Ninja",
+            "Monk",
+            "Master",
+            "Red Mage",
+            "Red Wizard",
+            "Black Mage",
+            "Black Wizard",
+            "White Mage",
+            "White Wizard"
+        ],
+        "locations": [
+            "Cornelia"
+        ],
+        "description": "Ordinary clothing."
+    },
+    {
+        "id": 1,
+        "name": "Leather Armor",
+        "buyPrice": 40,
+        "sellPrice": 20,
+        "defense": 4,
+        "weight": 8,
+        "accuracy": 0,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Thief",
+            "Ninja",
+            "Monk",
+            "Master",
+            "Red Mage",
+            "Red Wizard"
+        ],
+        "locations": [
+            "Cornelia",
+            "Pravoka"
+        ],
+        "description": "Armor made of hardened leather."
+    },
+    {
+        "id": 2,
+        "name": "Chain Mail",
+        "buyPrice": 65,
+        "sellPrice": 32,
+        "defense": 15,
+        "weight": 15,
+        "accuracy": 0,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Ninja",
+            "Red Mage",
+            "Red Wizard"
+        ],
+        "locations": [
+            "Cornelia",
+            "Pravoka"
+        ],
+        "description": "Mail of interwoven chain links."
+    },
+    {
+        "id": 3,
+        "name": "Iron Armor",
+        "buyPrice": 640,
+        "sellPrice": 320,
+        "defense": 24,
+        "weight": 23,
+        "accuracy": 0,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Ninja"
+        ],
+        "locations": [
+            "Pravoka",
+            "Elfheim"
+        ],
+        "description": "Armor made of thinly hammered iron."
+    },
+    {
+        "id": 4,
+        "name": "Leather Shield",
+        "buyPrice": 12,
+        "sellPrice": 6,
+        "defense": 2,
+        "weight": 0,
+        "accuracy": 0,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Ninja"
+        ],
+        "locations": [
+            "Pravoka"
+        ],
+        "description": "A shield made of hardened leather."
+    },
+    {
+        "id": 5,
+        "name": "Leather Gloves",
+        "buyPrice": 50,
+        "sellPrice": 25,
+        "defense": 1,
+        "weight": 1,
+        "accuracy": 0,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Thief",
+            "Ninja",
+            "Monk",
+            "Master",
+            "Red Mage",
+            "Red Wizard",
+            "Black Mage",
+            "Black Wizard",
+            "White Mage",
+            "White Wizard"
+        ],
+        "locations": [
+            "Pravoka"
+        ],
+        "description": "Gloves made of leather."
+    },
+    {
+        "id": 6,
+        "name": "Copper Armlet",
+        "buyPrice": 800,
+        "sellPrice": 400,
+        "defense": 4,
+        "weight": 1,
+        "accuracy": 0,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Thief",
+            "Ninja",
+            "Monk",
+            "Master",
+            "Red Mage",
+            "Red Wizard",
+            "Black Mage",
+            "Black Wizard",
+            "White Mage",
+            "White Wizard"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "An armlet crafted from copper."
+    },
+    {
+        "id": 7,
+        "name": "Iron Shield",
+        "buyPrice": 80,
+        "sellPrice": 40,
+        "defense": 4,
+        "weight": 0,
+        "accuracy": 0,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Ninja"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "A shield wrought from iron."
+    },
+    {
+        "id": 8,
+        "name": "Leather Cap",
+        "buyPrice": 65,
+        "sellPrice": 32,
+        "defense": 1,
+        "weight": 1,
+        "accuracy": 0,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Thief",
+            "Ninja",
+            "Monk",
+            "Master",
+            "Red Mage",
+            "Red Wizard",
+            "Black Mage",
+            "Black Wizard",
+            "White Mage",
+            "White Wizard"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "A cap made of leather."
+    },
+    {
+        "id": 9,
+        "name": "Helm",
+        "buyPrice": 80,
+        "sellPrice": 40,
+        "defense": 3,
+        "weight": 3,
+        "accuracy": 0,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Ninja"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "A small helm."
+    },
+    {
+        "id": 10,
+        "name": "Knight's Armor",
+        "buyPrice": 36000,
+        "sellPrice": 18000,
+        "defense": 34,
+        "weight": 33,
+        "accuracy": 0,
+        "usedBy": [
+            "Warrior",
+            "Knight"
+        ],
+        "locations": [
+            "Melmond"
+        ],
+        "description": "Armor crafted from steel plate."
+    },
+    {
+        "id": 11,
+        "name": "Silver Armlet",
+        "buyPrice": 4000,
+        "sellPrice": 2000,
+        "defense": 15,
+        "weight": 1,
+        "accuracy": 0,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Thief",
+            "Ninja",
+            "Monk",
+            "Master",
+            "Red Mage",
+            "Red Wizard",
+            "Black Mage",
+            "Black Wizard",
+            "White Mage",
+            "White Wizard"
+        ],
+        "locations": [
+            "Melmond"
+        ],
+        "description": "An armlet of worked silver."
+    },
+    {
+        "id": 12,
+        "name": "Great Helm",
+        "buyPrice": 360,
+        "sellPrice": 180,
+        "defense": 5,
+        "weight": 5,
+        "accuracy": 0,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Ninja"
+        ],
+        "locations": [
+            "Melmond"
+        ],
+        "description": "A helm that covers the entire head."
+    },
+    {
+        "id": 13,
+        "name": "Bronze Gloves",
+        "buyPrice": 160,
+        "sellPrice": 80,
+        "defense": 2,
+        "weight": 3,
+        "accuracy": 0,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Ninja"
+        ],
+        "locations": [
+            "Melmond"
+        ],
+        "description": "Gloves made of bronze."
+    },
+    {
+        "id": 14,
+        "name": "Steel Gloves",
+        "buyPrice": 600,
+        "sellPrice": 300,
+        "defense": 4,
+        "weight": 5,
+        "accuracy": 0,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Ninja"
+        ],
+        "locations": [
+            "Melmond"
+        ],
+        "description": "Gloves made of steel."
+    }
+]

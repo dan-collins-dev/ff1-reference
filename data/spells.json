@@ -1,0 +1,689 @@
+[
+    {
+        "id": 0,
+        "name": "Fire",
+        "type": "Black",
+        "price": 50,
+        "spellLevel": 1,
+        "usedBy": [
+            "Black Mage",
+            "Black Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Ninja"
+        ],
+        "locations": [
+            "Cornelia"
+        ],
+        "description": "Deals fire damage to one enemy."
+    },
+    {
+        "id": 1,
+        "name": "Sleep",
+        "type": "Black",
+        "price": 50,
+        "spellLevel": 1,
+        "usedBy": [
+            "Black Mage",
+            "Black Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Ninja"
+        ],
+        "locations": [
+            "Cornelia"
+        ],
+        "description": "Puts all enemies to sleep."
+    },
+    {
+        "id": 2,
+        "name": "Focus",
+        "type": "Black",
+        "price": 50,
+        "spellLevel": 1,
+        "usedBy": [
+            "Black Mage",
+            "Black Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Ninja"
+        ],
+        "locations": [
+            "Cornelia"
+        ],
+        "description": "Lowers one enemy's evasion."
+    },
+    {
+        "id": 3,
+        "name": "Thunder",
+        "type": "Black",
+        "price": 50,
+        "spellLevel": 1,
+        "usedBy": [
+            "Black Mage",
+            "Black Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Ninja"
+        ],
+        "locations": [
+            "Cornelia"
+        ],
+        "description": "Deals lightning damage to one enemy."
+    },
+    {
+        "id": 4,
+        "name": "Cure",
+        "type": "White",
+        "price": 50,
+        "spellLevel": 1,
+        "usedBy": [
+            "White Mage",
+            "White Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Knight"
+        ],
+        "locations": [
+            "Cornelia"
+        ],
+        "description": "Restores a little HP to one ally."
+    },
+    {
+        "id": 5,
+        "name": "Dia",
+        "type": "White",
+        "price": 50,
+        "spellLevel": 1,
+        "usedBy": [
+            "White Mage",
+            "White Wizard"
+        ],
+        "locations": [
+            "Cornelia"
+        ],
+        "description": "Deals damage to all undead enemies."
+    },
+    {
+        "id": 6,
+        "name": "Protect",
+        "type": "White",
+        "price": 50,
+        "spellLevel": 1,
+        "usedBy": [
+            "White Mage",
+            "White Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Knight"
+        ],
+        "locations": [
+            "Cornelia"
+        ],
+        "description": "Raises one ally's defense."
+    },
+    {
+        "id": 7,
+        "name": "Blink",
+        "type": "White",
+        "price": 50,
+        "spellLevel": 1,
+        "usedBy": [
+            "White Mage",
+            "White Wizard",
+            "Red Wizard",
+            "Knight"
+        ],
+        "locations": [
+            "Cornelia"
+        ],
+        "description": "Raises caster's evasion."
+    },
+    {
+        "id": 8,
+        "name": "Blizzard",
+        "type": "Black",
+        "price": 250,
+        "spellLevel": 2,
+        "usedBy": [
+            "Black Mage",
+            "Black Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Ninja"
+        ],
+        "locations": [
+            "Pravoka"
+        ],
+        "description": "Deals ice damage to one enemy."
+    },
+    {
+        "id": 9,
+        "name": "Dark",
+        "type": "Black",
+        "price": 250,
+        "spellLevel": 2,
+        "usedBy": [
+            "Black Mage",
+            "Black Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Ninja"
+        ],
+        "locations": [
+            "Pravoka"
+        ],
+        "description": "Blinds all enemies with darkness."
+    },
+    {
+        "id": 10,
+        "name": "Temper",
+        "type": "Black",
+        "price": 250,
+        "spellLevel": 2,
+        "usedBy": [
+            "Black Mage",
+            "Black Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Ninja"
+        ],
+        "locations": [
+            "Pravoka"
+        ],
+        "description": "Raises one ally's attack."
+    },
+    {
+        "id": 11,
+        "name": "Slow",
+        "type": "Black",
+        "price": 250,
+        "spellLevel": 2,
+        "usedBy": [
+            "Black Mage",
+            "Black Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Ninja"
+        ],
+        "locations": [
+            "Pravoka"
+        ],
+        "description": "Reduces all enemies' number of attacks."
+    },
+    {
+        "id": 12,
+        "name": "Blinda",
+        "type": "White",
+        "price": 250,
+        "spellLevel": 2,
+        "usedBy": [
+            "White Mage",
+            "White Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Knight"
+        ],
+        "locations": [
+            "Pravoka"
+        ],
+        "description": "Curse darkness."
+    },
+    {
+        "id": 13,
+        "name": "Silence",
+        "type": "White",
+        "price": 250,
+        "spellLevel": 2,
+        "usedBy": [
+            "White Mage",
+            "White Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Knight"
+        ],
+        "locations": [
+            "Pravoka"
+        ],
+        "description": "Casts silence on all enemies."
+    },
+    {
+        "id": 14,
+        "name": "NulShock",
+        "type": "White",
+        "price": 250,
+        "spellLevel": 2,
+        "usedBy": [
+            "White Mage",
+            "White Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Knight"
+        ],
+        "locations": [
+            "Pravoka"
+        ],
+        "description": "Reduces lightning damage by half for the entire party."
+    },
+    {
+        "id": 15,
+        "name": "Invis",
+        "type": "White",
+        "price": 250,
+        "spellLevel": 2,
+        "usedBy": [
+            "White Mage",
+            "White Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Knight"
+        ],
+        "locations": [
+            "Pravoka"
+        ],
+        "description": "Raises one ally's evasion."
+    },
+    {
+        "id": 16,
+        "name": "Fira",
+        "type": "Black",
+        "price": 1000,
+        "spellLevel": 3,
+        "usedBy": [
+            "Black Mage",
+            "Black Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Ninja"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "Deals fire damage to all enemies."
+    },
+    {
+        "id": 17,
+        "name": "Hold",
+        "type": "Black",
+        "price": 1000,
+        "spellLevel": 3,
+        "usedBy": [
+            "Black Mage",
+            "Black Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Ninja"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "Paralyzes one enemy."
+    },
+    {
+        "id": 18,
+        "name": "Thundara",
+        "type": "Black",
+        "price": 1000,
+        "spellLevel": 3,
+        "usedBy": [
+            "Black Mage",
+            "Black Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Ninja"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "Deals lightning damage to all enemies."
+    },
+    {
+        "id": 19,
+        "name": "Focara",
+        "type": "Black",
+        "price": 1000,
+        "spellLevel": 3,
+        "usedBy": [
+            "Black Mage",
+            "Black Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Ninja"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "Lowers evasion of all enemies."
+    },
+    {
+        "id": 20,
+        "name": "Cura",
+        "type": "White",
+        "price": 1000,
+        "spellLevel": 3,
+        "usedBy": [
+            "White Mage",
+            "White Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Knight"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "Restores HP to one ally."
+    },
+    {
+        "id": 21,
+        "name": "Diara",
+        "type": "White",
+        "price": 1000,
+        "spellLevel": 3,
+        "usedBy": [
+            "White Mage",
+            "White Wizard"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "Deals damage to all undead enemies."
+    },
+    {
+        "id": 22,
+        "name": "NulBlaze",
+        "type": "White",
+        "price": 1000,
+        "spellLevel": 3,
+        "usedBy": [
+            "White Mage",
+            "White Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Knight"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "Reduces fire damage by half for the entire party."
+    },
+    {
+        "id": 23,
+        "name": "Heal",
+        "type": "White",
+        "price": 1000,
+        "spellLevel": 3,
+        "usedBy": [
+            "White Mage",
+            "White Wizard"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "Restores a little HP to the entire party."
+    },
+    {
+        "id": 24,
+        "name": "Sleepra",
+        "type": "Black",
+        "price": 2500,
+        "spellLevel": 4,
+        "usedBy": [
+            "Black Mage",
+            "Black Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Ninja"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "Puts one enemy to sleep."
+    },
+    {
+        "id": 25,
+        "name": "Haste",
+        "type": "Black",
+        "price": 2500,
+        "spellLevel": 4,
+        "usedBy": [
+            "Black Mage",
+            "Black Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Ninja"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "Doubles one ally's number of attacks."
+    },
+    {
+        "id": 26,
+        "name": "Confuse",
+        "type": "Black",
+        "price": 2500,
+        "spellLevel": 4,
+        "usedBy": [
+            "Black Mage",
+            "Black Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Ninja"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "Causes enemies to turn on each other."
+    },
+    {
+        "id": 27,
+        "name": "Blizara",
+        "type": "Black",
+        "price": 2500,
+        "spellLevel": 4,
+        "usedBy": [
+            "Black Mage",
+            "Black Wizard",
+            "Red Mage",
+            "Red Wizard",
+            "Ninja"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "Deals ice damage to all enemies."
+    },
+    {
+        "id": 28,
+        "name": "Poisona",
+        "type": "White",
+        "price": 2500,
+        "spellLevel": 4,
+        "usedBy": [
+            "White Mage",
+            "White Wizard",
+            "Red Mage",
+            "Red Wizard"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "Restores a little HP to the entire party."
+    },
+    {
+        "id": 29,
+        "name": "Fear",
+        "type": "White",
+        "price": 2500,
+        "spellLevel": 4,
+        "usedBy": [
+            "White Mage",
+            "White Wizard",
+            "Red Mage",
+            "Red Wizard"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "Drives all enemies away in terror."
+    },
+    {
+        "id": 30,
+        "name": "NulFrost",
+        "type": "White",
+        "price": 2500,
+        "spellLevel": 4,
+        "usedBy": [
+            "White Mage",
+            "White Wizard"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "Reduces ice damage by half for the entire party."
+    },
+    {
+        "id": 31,
+        "name": "Vox",
+        "type": "White",
+        "price": 2500,
+        "spellLevel": 4,
+        "usedBy": [
+            "White Mage",
+            "White Wizard",
+            "Red Wizard"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "Cures silence."
+    },
+    {
+        "id": 32,
+        "name": "Firaga",
+        "type": "Black",
+        "price": 4000,
+        "spellLevel": 5,
+        "usedBy": [
+            "Black Mage",
+            "Black Wizard"
+        ],
+        "locations": [
+            "Melmond"
+        ],
+        "description": "Deals fire damage to all enemies."
+    },
+    {
+        "id": 33,
+        "name": "Scourge",
+        "type": "Black",
+        "price": 4000,
+        "spellLevel": 5,
+        "usedBy": [
+            "Black Mage",
+            "Black Wizard",
+            "Red Wizard"
+        ],
+        "locations": [
+            "Melmond"
+        ],
+        "description": "Instantly kills all enemies."
+    },
+    {
+        "id": 34,
+        "name": "Teleport",
+        "type": "Black",
+        "price": 4000,
+        "spellLevel": 5,
+        "usedBy": [
+            "Black Wizard",
+            "Red Wizard"
+        ],
+        "locations": [
+            "Melmond"
+        ],
+        "description": "Transports the party to the previous floor."
+    },
+    {
+        "id": 35,
+        "name": "Slowra",
+        "type": "Black",
+        "price": 4000,
+        "spellLevel": 5,
+        "usedBy": [
+            "Black Mage",
+            "Black Wizard",
+            "Red Mage",
+            "Red Wizard"
+        ],
+        "locations": [
+            "Melmond"
+        ],
+        "description": "Reduces one enemy's attacks."
+    },
+    {
+        "id": 36,
+        "name": "Curaga",
+        "type": "White",
+        "price": 4000,
+        "spellLevel": 5,
+        "usedBy": [
+            "White Mage",
+            "White Wizard",
+            "Red Mage",
+            "Red Wizard"
+        ],
+        "locations": [
+            "Melmond"
+        ],
+        "description": "Restores a lot of HP to one ally."
+    },
+    {
+        "id": 37,
+        "name": "Life",
+        "type": "White",
+        "price": 4000,
+        "spellLevel": 5,
+        "usedBy": [
+            "White Mage",
+            "White Wizard",
+            "Red Wizard"
+        ],
+        "locations": [
+            "Melmond"
+        ],
+        "description": "Revives one KO'd ally."
+    },
+    {
+        "id": 38,
+        "name": "Diaga",
+        "type": "White",
+        "price": 4000,
+        "spellLevel": 5,
+        "usedBy": [
+            "White Mage",
+            "White Wizard"
+        ],
+        "locations": [
+            "Melmond"
+        ],
+        "description": "Deals damage to all undead enemies."
+    },
+    {
+        "id": 39,
+        "name": "Healara",
+        "type": "White",
+        "price": 4000,
+        "spellLevel": 5,
+        "usedBy": [
+            "White Mage",
+            "White Wizard",
+            "Red Mage",
+            "Red Wizard"
+        ],
+        "locations": [
+            "Melmond"
+        ],
+        "description": "Restores HP to the entire party."
+    }
+]
