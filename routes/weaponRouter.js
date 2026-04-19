@@ -1,10 +1,10 @@
 "use strict"
 
 import express from "express";
-import { getAllArmors } from "../controllers/armorsController.js";
+import { getAllWeapons } from "../controllers/weaponsController.js";
 
-const armorRouter = express.Router();
+const weaponRouter = express.Router();
 
-armorRouter.get("/", getAllArmors);
+weaponRouter.get("/", getAllWeapons);
 
-export default armorRouter;
+export default weaponRouter;
