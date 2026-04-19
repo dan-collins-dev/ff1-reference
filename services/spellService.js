@@ -13,15 +13,15 @@ export async function readSpellFile() {
         const allSpells = await fs.readFile(spellsFile);
         return JSON.parse(allSpells);
     } catch (error) {
-        console.error("Issue reading file ", error.message)
+        console.error("Issue reading file", error.message);
     }
 }
 
 export async function allSpells() {
     try {
-        const allSpells = await readSpellFile()
-        return allSpells
+        const allSpells = await readSpellFile();
+        return allSpells;
     } catch (error) {
-        console.error("Something went wrong", error.message)
+        console.error("Something went wrong", error.message);
     }
 }

@@ -13,15 +13,15 @@ export async function readArmorFile() {
         const allArmors = await fs.readFile(armorsFile);
         return JSON.parse(allArmors);
     } catch (error) {
-        console.error("Issue reading file ", error.message)
+        console.error("Issue reading file", error.message);
     }
 }
 
 export async function allArmors() {
     try {
-        const allSpells = await readArmorFile()
-        return allSpells
+        const allArmors = await readArmorFile();
+        return allArmors;
     } catch (error) {
-        console.error("Something went wrong", error.message)
+        console.error("Something went wrong", error.message);
     }
 }

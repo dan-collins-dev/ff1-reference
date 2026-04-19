@@ -10,18 +10,18 @@ const weaponsFile = path.join(__dirname, "..", "data", "weapons.json");
 
 export async function readWeaponFile() {
     try {
-        const allArmors = await fs.readFile(armorsFile);
-        return JSON.parse(allArmors);
+        const allWeapons = await fs.readFile(weaponsFile);
+        return JSON.parse(allWeapons);
     } catch (error) {
-        console.error("Issue reading file ", error.message)
+        console.error("Issue reading file", error.message);
     }
 }
 
 export async function allWeapons() {
     try {
-        const allArmors = await readWeaponFile()
-        return allArmors
+        const allWeapons = await readWeaponFile();
+        return allWeapons;
     } catch (error) {
-        console.error("Something went wrong", error.message)
+        console.error("Something went wrong", error.message);
     }
 }
