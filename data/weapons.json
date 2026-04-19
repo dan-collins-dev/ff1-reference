@@ -1,0 +1,296 @@
+[
+    {
+        "id": 0,
+        "name": "Nunchaku",
+        "buyPrice": 8,
+        "sellPrice": 4,
+        "attack": 12,
+        "accuracy": 0,
+        "usedBy": [
+            "Ninja",
+            "Monk",
+            "Master"
+        ],
+        "locations": [
+            "Cornelia"
+        ],
+        "description": "Wooden nunchaku."
+    },
+    {
+        "id": 1,
+        "name": "Knife",
+        "buyPrice": 4,
+        "sellPrice": 2,
+        "attack": 5,
+        "accuracy": 10,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Thief",
+            "Ninja",
+            "Red Mage",
+            "Red Wizard",
+            "White Mage",
+            "White Wizard"
+        ],
+        "locations": [
+            "Cornelia"
+        ],
+        "description": "A small knife."
+    },
+    {
+        "id": 2,
+        "name": "Staff",
+        "buyPrice": 4,
+        "sellPrice": 2,
+        "attack": 6,
+        "accuracy": 0,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Ninja",
+            "Red Mage",
+            "Red Wizard",
+            "White Mage",
+            "White Wizard",
+            "Black Mage",
+            "Black Wizard"
+        ],
+        "locations": [
+            "Cornelia"
+        ],
+        "description": "A wooden staff."
+    },
+    {
+        "id": 3,
+        "name": "Rapier",
+        "buyPrice": 8,
+        "sellPrice": 4,
+        "attack": 9,
+        "accuracy": 5,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Thief",
+            "Ninja",
+            "Red Mage",
+            "Red Wizard"
+        ],
+        "locations": [
+            "Cornelia"
+        ],
+        "description": "A sword with a slender blade."
+    },
+    {
+        "id": 4,
+        "name": "Hammer",
+        "buyPrice": 8,
+        "sellPrice": 4,
+        "attack": 9,
+        "accuracy": 0,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Ninja",
+            "Red Wizard",
+            "White Mage"
+        ],
+        "locations": [
+            "Cornelia",
+            "Pravoka"
+        ],
+        "description": "A hammer used for battle."
+    },
+    {
+        "id": 5,
+        "name": "Broadsword",
+        "buyPrice": 450,
+        "sellPrice": 225,
+        "attack": 15,
+        "accuracy": 10,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Ninja",
+            "Red Wizard",
+            "White Mage"
+        ],
+        "locations": [
+            "Pravoka"
+        ],
+        "description": "A sword with a wide, double-edged blade."
+    },
+    {
+        "id": 6,
+        "name": "Battle Axe",
+        "buyPrice": 450,
+        "sellPrice": 225,
+        "attack": 15,
+        "accuracy": 10,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Ninja"
+        ],
+        "locations": [
+            "Pravoka"
+        ],
+        "description": "A axe made for battle."
+    },
+    {
+        "id": 7,
+        "name": "Scimitar",
+        "buyPrice": 160,
+        "sellPrice": 80,
+        "attack": 15,
+        "accuracy": 10,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Ninja",
+            "Red Wizard",
+            "White Mage"
+        ],
+        "locations": [
+            "Pravoka"
+        ],
+        "description": "A sword with a curved blade."
+    },
+    {
+        "id": 8,
+        "name": "Iron Nunchaku",
+        "buyPrice": 160,
+        "sellPrice": 80,
+        "attack": 16,
+        "accuracy": 10,
+        "usedBy": [
+            "Ninja",
+            "Monk",
+            "Master"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "Nunchaku made of iron."
+    },
+    {
+        "id": 9,
+        "name": "Dagger",
+        "buyPrice": 140,
+        "sellPrice": 70,
+        "attack": 7,
+        "accuracy": 10,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Thief",
+            "Ninja",
+            "Red Mage",
+            "Red Wizard",
+            "Black Mage",
+            "Black Wizard"
+        ],
+        "locations": [
+            "Elfheim"
+        ],
+        "description": "A large knife."
+    },
+    {
+        "id": 10,
+        "name": "Crosier",
+        "buyPrice": 160,
+        "sellPrice": 80,
+        "attack": 14,
+        "accuracy": 0,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Ninja",
+            "Monk",
+            "Master"
+        ],
+        "locations": [
+            "Elfheim",
+            "Melmond"
+        ],
+        "description": "A staff topped with an iron ring."
+    },
+    {
+        "id": 11,
+        "name": "Saber",
+        "buyPrice": 360,
+        "sellPrice": 180,
+        "attack": 13,
+        "accuracy": 5,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Thief",
+            "Ninja",
+            "Red Mage",
+            "Red Wizard"
+        ],
+        "locations": [
+            "Elfheim",
+            "Melmond"
+        ],
+        "description": "A long sword made for piercing."
+    },
+    {
+        "id": 12,
+        "name": "Longsword",
+        "buyPrice": 1200,
+        "sellPrice": 600,
+        "attack": 20,
+        "accuracy": 10,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Ninja",
+            "Red Mage",
+            "Red Wizard"
+        ],
+        "locations": [
+            "Melmond"
+        ],
+        "description": "A large, double-edge sword."
+    },
+    {
+        "id": 13,
+        "name": "Longsword",
+        "buyPrice": 1200,
+        "sellPrice": 600,
+        "attack": 20,
+        "accuracy": 10,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Ninja",
+            "Red Mage",
+            "Red Wizard"
+        ],
+        "locations": [
+            "Melmond"
+        ],
+        "description": "A large, double-edge sword."
+    },
+    {
+        "id": 14,
+        "name": "Falchion",
+        "buyPrice": 360,
+        "sellPrice": 180,
+        "attack": 15,
+        "accuracy": 10,
+        "usedBy": [
+            "Warrior",
+            "Knight",
+            "Ninja",
+            "Red Mage",
+            "Red Wizard"
+        ],
+        "locations": [
+            "Melmond"
+        ],
+        "description": "A large, double-edge sword."
+    }
+]
