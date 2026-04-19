@@ -5,6 +5,8 @@ import express from "express";
 const app = express();
 const port = 8080;
 
+app.use(express.static("./public"));
+
 app.get("/api/items", () => {
     res.status(200).json({
         message: "TODO: Implement items route",
@@ -35,4 +37,4 @@ app.get("/api/locations", () => {
     });
 });
 
-app.listen(port, () => `Serving at http://localhost:${port}`);
+app.listen(port, () => console.log(`Serving at http://localhost:${port}`));
