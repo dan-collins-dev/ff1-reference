@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 
 import path from "path";
 import { fileURLToPath } from "url";
@@ -13,7 +13,8 @@ export async function readSpellFile() {
         const allSpells = await fs.readFile(spellsFile);
         return JSON.parse(allSpells);
     } catch (error) {
-        console.error("Issue reading file", error.message);
+        console.error("Something went wrong", error.message);
+        throw error;
     }
 }
 
@@ -25,3 +26,17 @@ export async function allSpells() {
         console.error("Something went wrong", error.message);
     }
 }
+
+export async function spellByName(name) {
+    try {
+        const formattedName = name.trim().toLowerCase();
+        const allSpells = await readSpellFile();
+        const spell = allSpells.filter(
+            (spell) => spell.name.toLowerCase() === formattedName,
+        );
+        return spell;
+    } catch (error) {
+        console.error("Something went wrong", error.message);
+    }
+}
+
