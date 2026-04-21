@@ -13,7 +13,7 @@ export async function readSpellFile() {
         const allSpells = await fs.readFile(spellsFile);
         return JSON.parse(allSpells);
     } catch (error) {
-        console.error("Something went wrong", error.message);
+        console.error("Issue reading file", error.message);
         throw error;
     }
 }

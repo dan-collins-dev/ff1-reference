@@ -5,7 +5,7 @@ import {
     readSpellFile,
     allSpells,
     spellByName,
-} from "../services/spellService.js";
+} from "../../services/spellService.js";
 
 const sampleSpells = [
     {
@@ -50,7 +50,7 @@ describe("spellService", () => {
             await expect(readSpellFile()).rejects.toThrow("read failed");
 
             expect(consoleError).toHaveBeenCalledWith(
-                "Something went wrong",
+                "Issue reading file",
                 "read failed",
             );
             consoleError.mockRestore();

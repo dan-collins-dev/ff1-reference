@@ -14,6 +14,7 @@ export async function readWeaponFile() {
         return JSON.parse(allWeapons);
     } catch (error) {
         console.error("Issue reading file", error.message);
+        throw error;
     }
 }
 

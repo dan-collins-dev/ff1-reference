@@ -14,6 +14,7 @@ export async function readArmorFile() {
         return JSON.parse(allArmors);
     } catch (error) {
         console.error("Issue reading file", error.message);
+        throw error;
     }
 }
 

@@ -1,8 +1,11 @@
 import { describe, it, expect, vi, beforeEach } from "vitest";
-import { getAllSpells, getSpellByName } from "../controllers/spellsController.js";
-import * as spellService from "../services/spellService.js";
+import {
+    getAllSpells,
+    getSpellByName,
+} from "../../controllers/spellsController.js";
+import * as spellService from "../../services/spellService.js";
 
-vi.mock("../services/spellService.js");
+vi.mock("../../services/spellService.js");
 
 const sampleSpells = [
     {
@@ -31,7 +34,7 @@ describe("spellsController", () => {
         req = {};
         res = {
             status: vi.fn().mockReturnThis(),
-            json: vi.fn()
+            json: vi.fn(),
         };
     });
 
@@ -82,9 +85,13 @@ describe("spellsController", () => {
 
             await getSpellByName(req, res);
 
-            expect(spellService.spellByName).toHaveBeenCalledWith("NonexistentSpell");
+            expect(spellService.spellByName).toHaveBeenCalledWith(
+                "NonexistentSpell",
+            );
             expect(res.status).toHaveBeenCalledWith(404);
-            expect(res.json).toHaveBeenCalledWith({message: "NonexistentSpell does not exist."});
+            expect(res.json).toHaveBeenCalledWith({
+                message: "NonexistentSpell does not exist.",
+            });
         });
 
         it("logs error when service fails", async () => {
@@ -97,7 +104,10 @@ describe("spellsController", () => {
 
             await getSpellByName(req, res);
 
-            expect(consoleError).toHaveBeenCalledWith("Something went wrong", "getSpellByName failed");
+            expect(consoleError).toHaveBeenCalledWith(
+                "Something went wrong",
+                "getSpellByName failed",
+            );
             consoleError.mockRestore();
         });
     });
