@@ -96,50 +96,50 @@
     },
 
     {
-        "id": 0,
-        "contents": "Iron Armor",
-        "location": "Castle Cornelia",
+        "id": 7,
+        "contents": "Dagger",
+        "location": "Marsh Cave",
         "locked": false,
         "keyItem": false,
         "opened": false,
         "hasEncounter": false,
         "images": {
-            "map": "https://lh3.googleusercontent.com/d/",
-            "location": "https://lh3.googleusercontent.com/d/",
-            "encounter": "https://lh3.googleusercontent.com/d/",
-            "contents": "https://lh3.googleusercontent.com/d/"
+            "map": "https://lh3.googleusercontent.com/d/14S3Z9BRl8xQyTAp3VOgAOXBmNSV9De1I",
+            "location": "https://lh3.googleusercontent.com/d/16E2Z-foxGdtPoxI3wtMZ0d8k4NIC4iZI",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/https://drive.google.com/file/d/1UwhSwOK4RQP6xtqVRNyWXaE5w0xYYSNY/view?usp=sharing"
         }
     },
 
     {
-        "id": 0,
-        "contents": "Iron Armor",
-        "location": "Castle Cornelia",
+        "id": 8,
+        "contents": "1180 gil",
+        "location": "Marsh Cave",
         "locked": false,
         "keyItem": false,
         "opened": false,
         "hasEncounter": false,
         "images": {
-            "map": "https://lh3.googleusercontent.com/d/",
-            "location": "https://lh3.googleusercontent.com/d/",
-            "encounter": "https://lh3.googleusercontent.com/d/",
-            "contents": "https://lh3.googleusercontent.com/d/"
+            "map": "https://lh3.googleusercontent.com/d/1EqfQbs_6JwUvcXpcRNt9Tkg5ddTJurFy",
+            "location": "https://lh3.googleusercontent.com/d/1iNV6rh5nVCShzrh8S5HqH-g_Zud-PcEd",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1JOkbM14OwDsv6G53dqhAYAQbd369fQlj"
         }
     },
 
     {
-        "id": 0,
-        "contents": "Iron Armor",
-        "location": "Castle Cornelia",
+        "id": 9,
+        "contents": "Potion",
+        "location": "Marsh Cave",
         "locked": false,
         "keyItem": false,
         "opened": false,
         "hasEncounter": false,
         "images": {
-            "map": "https://lh3.googleusercontent.com/d/",
-            "location": "https://lh3.googleusercontent.com/d/",
-            "encounter": "https://lh3.googleusercontent.com/d/",
-            "contents": "https://lh3.googleusercontent.com/d/"
+            "map": "https://lh3.googleusercontent.com/d/1iIOq6T_nN9p_GP_rBIifc2dRgJUl14xg",
+            "location": "https://lh3.googleusercontent.com/d/11PHQco_1VSjdBvQVDiICwMKIBc3JbJr6",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1XViEWMOWbAyvB4nr483JEo0n8O0UwMWX"
         }
     },
 
