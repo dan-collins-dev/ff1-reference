@@ -280,250 +280,250 @@
         "opened": false,
         "hasEncounter": false,
         "images": {
-            "map": "https://lh3.googleusercontent.com/d/1IvavFHFfzrqD82icBJD3grJIiu2hkFjl",
+            "map": "https://lh3.googleusercontent.com/d/1fcP7weyLGtT8YE0B06wXfwe46z-lPKbT",
             "location": "https://lh3.googleusercontent.com/d/1f1wg52uRJDrlE2hPvfHatnTMbkQ5yOY6",
-            "encounter": "https://lh3.googleusercontent.com/d/",
+            "encounter": "",
             "contents": "https://lh3.googleusercontent.com/d/1-D96gQ-yRgghX0g6GezvMfSfeuJcjLOX"
         }
     },
 
     {
-        "id": 0,
-        "contents": "Iron Armor",
-        "location": "Castle Cornelia",
+        "id": 19,
+        "contents": "1135 gil",
+        "location": "Marsh Cave",
         "locked": false,
         "keyItem": false,
         "opened": false,
         "hasEncounter": false,
         "images": {
-            "map": "https://lh3.googleusercontent.com/d/",
-            "location": "https://lh3.googleusercontent.com/d/",
-            "encounter": "https://lh3.googleusercontent.com/d/",
-            "contents": "https://lh3.googleusercontent.com/d/"
+            "map": "https://lh3.googleusercontent.com/d/1REIjihqkEl32y2YxDrazCBZoPptQOxt8",
+            "location": "https://lh3.googleusercontent.com/d/1mbuT_q22_q66SjngqPTOLBGyPcD08dWf",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1IvavFHFfzrqD82icBJD3grJIiu2hkFjl"
         }
     },
 
     {
-        "id": 0,
-        "contents": "Iron Armor",
-        "location": "Castle Cornelia",
+        "id": 20,
+        "contents": "Potion",
+        "location": "Marsh Cave",
         "locked": false,
         "keyItem": false,
         "opened": false,
         "hasEncounter": false,
         "images": {
-            "map": "https://lh3.googleusercontent.com/d/",
-            "location": "https://lh3.googleusercontent.com/d/",
-            "encounter": "https://lh3.googleusercontent.com/d/",
-            "contents": "https://lh3.googleusercontent.com/d/"
+            "map": "https://lh3.googleusercontent.com/d/1tGRZ5V1sRR3MHfNnshN3B9269SaaM_ZJ",
+            "location": "https://lh3.googleusercontent.com/d/1r6ZPQ4xr5X1gtHgAnJYKLYiNY8y9chgo",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1lqC6-3Rw_lzuZliDpU-BC8c1MN9jHu5o"
         }
     },
 
     {
-        "id": 0,
-        "contents": "Iron Armor",
-        "location": "Castle Cornelia",
+        "id": 21,
+        "contents": "Crown",
+        "location": "Marsh Cave",
         "locked": false,
-        "keyItem": false,
+        "keyItem": true,
         "opened": false,
-        "hasEncounter": false,
+        "hasEncounter": true,
         "images": {
-            "map": "https://lh3.googleusercontent.com/d/",
-            "location": "https://lh3.googleusercontent.com/d/",
-            "encounter": "https://lh3.googleusercontent.com/d/",
-            "contents": "https://lh3.googleusercontent.com/d/"
+            "map": "https://lh3.googleusercontent.com/d/1unFQ-075Is2C67Xo8QYDoxAf9QZ5GBZY",
+            "location": "https://lh3.googleusercontent.com/d/1UWPqVa14XRsLRJ89PSRQcQzhFfyfiO-s",
+            "encounter": "https://lh3.googleusercontent.com/d/1F17bh1kX5sqg-x5nVrAlG3qorjitPdxy",
+            "contents": "https://lh3.googleusercontent.com/d/1Nh4WXi1F-p4F6xRFKp19ht46QSss8SCH"
         }
     },
 
     {
-        "id": 0,
-        "contents": "Iron Armor",
-        "location": "Castle Cornelia",
+        "id": 22,
+        "contents": "Mythril Armor",
+        "location": "Elven Castle",
         "locked": false,
-        "keyItem": false,
+        "keyItem": true,
         "opened": false,
         "hasEncounter": false,
         "images": {
-            "map": "https://lh3.googleusercontent.com/d/",
-            "location": "https://lh3.googleusercontent.com/d/",
-            "encounter": "https://lh3.googleusercontent.com/d/",
-            "contents": "https://lh3.googleusercontent.com/d/"
+            "map": "https://lh3.googleusercontent.com/d/12Uo-JWDeZgd5KvFclXRcGdZFNYoxMK80/",
+            "location": "https://lh3.googleusercontent.com/d/13M1VNMgdbI3Tw05AFcNXpTt_DevVeHfs",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1MXeg3WxdfRMw6J0jYcNUprat2OMAnr5m"
         }
     },
 
     {
-        "id": 0,
-        "contents": "Iron Armor",
-        "location": "Castle Cornelia",
+        "id": 23,
+        "contents": "800 gil",
+        "location": "Elven Castle",
         "locked": false,
         "keyItem": false,
         "opened": false,
         "hasEncounter": false,
         "images": {
-            "map": "https://lh3.googleusercontent.com/d/",
-            "location": "https://lh3.googleusercontent.com/d/",
-            "encounter": "https://lh3.googleusercontent.com/d/",
-            "contents": "https://lh3.googleusercontent.com/d/"
+            "map": "https://lh3.googleusercontent.com/d/10GyrHE8X1Uuj4SeouqeTj0btxnm6LUPx",
+            "location": "https://lh3.googleusercontent.com/d/1bPCcT3ECIP5UePv4BVNfzReH4T1EWYY8",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/136e-ds0Pj0SxfwibfR5lGxgSpokcPq6h"
         }
     },
 
     {
-        "id": 0,
-        "contents": "Iron Armor",
-        "location": "Castle Cornelia",
-        "locked": false,
+        "id": 24,
+        "contents": "700 gil",
+        "location": "Elven Castle",
+        "locked": true,
         "keyItem": false,
         "opened": false,
         "hasEncounter": false,
         "images": {
-            "map": "https://lh3.googleusercontent.com/d/",
-            "location": "https://lh3.googleusercontent.com/d/",
-            "encounter": "https://lh3.googleusercontent.com/d/",
-            "contents": "https://lh3.googleusercontent.com/d/"
+            "map": "https://lh3.googleusercontent.com/d/16RazJFphYsbWr_j6dQIo61iutEvvHBZs",
+            "location": "https://lh3.googleusercontent.com/d/1o7FBNGPWyxKfmim4RfOydlbx0N5uL6vb",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1NyPWw9xB97_CSAGKSRXMlPDdoqWN6jh5"
         }
     },
 
     {
-        "id": 0,
-        "contents": "Iron Armor",
-        "location": "Castle Cornelia",
-        "locked": false,
+        "id": 25,
+        "contents": "Bronze Gloves",
+        "location": "Elven Castle",
+        "locked": true,
         "keyItem": false,
         "opened": false,
         "hasEncounter": false,
         "images": {
-            "map": "https://lh3.googleusercontent.com/d/",
-            "location": "https://lh3.googleusercontent.com/d/",
-            "encounter": "https://lh3.googleusercontent.com/d/",
-            "contents": "https://lh3.googleusercontent.com/d/"
+            "map": "https://lh3.googleusercontent.com/d/1qS49GteT57_p60Qd1GaSSKYYhQ3bsaD_",
+            "location": "https://lh3.googleusercontent.com/d/1G7j9eufGYQjUiqRehidy8m66whu1NN_r",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1x-HRkfEfG7t_erNX2lD3aeksxU_Kqisb"
         }
     },
 
     {
-        "id": 0,
-        "contents": "Iron Armor",
-        "location": "Castle Cornelia",
-        "locked": false,
+        "id": 26,
+        "contents": "Power Staff",
+        "location": "Western Keep",
+        "locked": true,
         "keyItem": false,
         "opened": false,
-        "hasEncounter": false,
+        "hasEncounter": true,
         "images": {
-            "map": "https://lh3.googleusercontent.com/d/",
-            "location": "https://lh3.googleusercontent.com/d/",
-            "encounter": "https://lh3.googleusercontent.com/d/",
-            "contents": "https://lh3.googleusercontent.com/d/"
+            "map": "https://lh3.googleusercontent.com/d/1KvSfEbW2gwJohD9kbvzS9WrEC31iZLr1",
+            "location": "https://lh3.googleusercontent.com/d/11KsHpXXnS0Tal6FRQD49hYgp8sRrp5Ng",
+            "encounter": "https://lh3.googleusercontent.com/d/1Pse4WtN3hxy-MPnhqS382I9P3on9tRd6",
+            "contents": "https://lh3.googleusercontent.com/d/1-b4QwLuL4tuXSIfI_RQxOkfwvzP_1pi2"
         }
     },
 
     {
-        "id": 0,
-        "contents": "Iron Armor",
-        "location": "Castle Cornelia",
-        "locked": false,
+        "id": 27,
+        "contents": "Falchion",
+        "location": "Western Keep",
+        "locked": true,
         "keyItem": false,
         "opened": false,
-        "hasEncounter": false,
+        "hasEncounter": true,
         "images": {
-            "map": "https://lh3.googleusercontent.com/d/",
-            "location": "https://lh3.googleusercontent.com/d/",
-            "encounter": "https://lh3.googleusercontent.com/d/",
-            "contents": "https://lh3.googleusercontent.com/d/"
+            "map": "https://lh3.googleusercontent.com/d/1qsm2xCD0PP5kSOpIsPquN1K3UkMDyp4_",
+            "location": "https://lh3.googleusercontent.com/d/13Mn4VJCnUumwyakL7jeD-SkuLJHQbZg7",
+            "encounter": "https://lh3.googleusercontent.com/d/1R5SFwUrbdLs8iUxYeFZwUyYdoYaxHIUN",
+            "contents": "https://lh3.googleusercontent.com/d/1HU2NO-Zb7RyQVSW3BMsUsd0K4izsG8aK"
         }
     },
 
     {
-        "id": 0,
-        "contents": "Iron Armor",
-        "location": "Castle Cornelia",
-        "locked": false,
+        "id": 28,
+        "contents": "Steel Gloves",
+        "location": "Western Keep",
+        "locked": true,
         "keyItem": false,
         "opened": false,
-        "hasEncounter": false,
+        "hasEncounter": true,
         "images": {
-            "map": "https://lh3.googleusercontent.com/d/",
-            "location": "https://lh3.googleusercontent.com/d/",
-            "encounter": "https://lh3.googleusercontent.com/d/",
-            "contents": "https://lh3.googleusercontent.com/d/"
+            "map": "https://lh3.googleusercontent.com/d/160tMy3Ed9aiazdsogAhUsOa4_gvGyS_v",
+            "location": "https://lh3.googleusercontent.com/d/1ovKnWBB-tNFTmS7XuNQMWJH9j1QYSI1X",
+            "encounter": "https://lh3.googleusercontent.com/d/19aK6g_bETTF_CllLfbOJQ3DlwpTdazbU",
+            "contents": "https://lh3.googleusercontent.com/d/1_ORq0sa1GX3AJJb3h3UHPYGwwb8YI0SM"
         }
     },
 
     {
-        "id": 0,
-        "contents": "Iron Armor",
-        "location": "Castle Cornelia",
-        "locked": false,
+        "id": 29,
+        "contents": "Silver Armlet",
+        "location": "Marsh Cave",
+        "locked": true,
         "keyItem": false,
         "opened": false,
-        "hasEncounter": false,
+        "hasEncounter": true,
         "images": {
-            "map": "https://lh3.googleusercontent.com/d/",
-            "location": "https://lh3.googleusercontent.com/d/",
-            "encounter": "https://lh3.googleusercontent.com/d/",
-            "contents": "https://lh3.googleusercontent.com/d/"
+            "map": "https://lh3.googleusercontent.com/d/1IGo-b6LFREZziaGC-B_WrsdL2xaPrYxQ",
+            "location": "https://lh3.googleusercontent.com/d/1FjtA-DoFcDTBsGTDZKKmuZq2VSWsHbVt",
+            "encounter": "https://lh3.googleusercontent.com/d/1Mh6_wpb5Lmsl9nBr8pLjbFBHM2TgZIeb",
+            "contents": "https://lh3.googleusercontent.com/d/1bx9TKjf9Xv_ATcrFTlroyLHaZaAZKWzX"
         }
     },
 
     {
-        "id": 0,
-        "contents": "Iron Armor",
-        "location": "Castle Cornelia",
-        "locked": false,
+        "id": 30,
+        "contents": "Antidote",
+        "location": "Marsh Cave",
+        "locked": true,
         "keyItem": false,
         "opened": false,
-        "hasEncounter": false,
+        "hasEncounter": true,
         "images": {
-            "map": "https://lh3.googleusercontent.com/d/",
-            "location": "https://lh3.googleusercontent.com/d/",
-            "encounter": "https://lh3.googleusercontent.com/d/",
-            "contents": "https://lh3.googleusercontent.com/d/"
+            "map": "https://lh3.googleusercontent.com/d/1zcvluCPJKzUc2GtJpC_1kSEpFs6W3DQA",
+            "location": "https://lh3.googleusercontent.com/d/1m6-XlmPSB9874LDw9zTPAkrd0jGFP9ch",
+            "encounter": "https://lh3.googleusercontent.com/d/1MG81dB_9b-vnBeF-8SFRjPBS7nNJvwXO",
+            "contents": "https://lh3.googleusercontent.com/d/1fNjSEcX8aLRoqAZjMIjLPzludx1SbwT7"
         }
     },
 
     {
-        "id": 0,
-        "contents": "Iron Armor",
-        "location": "Castle Cornelia",
-        "locked": false,
+        "id": 31,
+        "contents": "1020 gil",
+        "location": "Marsh Cave",
+        "locked": true,
         "keyItem": false,
         "opened": false,
-        "hasEncounter": false,
+        "hasEncounter": true,
         "images": {
-            "map": "https://lh3.googleusercontent.com/d/",
-            "location": "https://lh3.googleusercontent.com/d/",
-            "encounter": "https://lh3.googleusercontent.com/d/",
-            "contents": "https://lh3.googleusercontent.com/d/"
+            "map": "https://lh3.googleusercontent.com/d/1t3pTrOM6-A9cwS9Q4XqpFLyw1TuBA2Hl",
+            "location": "https://lh3.googleusercontent.com/d/1Ugk_7Dicrt3JLz9-bpC5BW9f-ZJk0aKj",
+            "encounter": "https://lh3.googleusercontent.com/d/1u3F2HLtbZz5vn3NZsX7iSajOJ4J-VTCU",
+            "contents": "https://lh3.googleusercontent.com/d/1omnSvO0jA37nb5lj3_BhRMWXieQo9xXz"
         }
     },
 
     {
-        "id": 0,
-        "contents": "Iron Armor",
-        "location": "Castle Cornelia",
-        "locked": false,
+        "id": 32,
+        "contents": "Rune Blade",
+        "location": "Chaos Shrine",
+        "locked": true,
         "keyItem": false,
         "opened": false,
         "hasEncounter": false,
         "images": {
-            "map": "https://lh3.googleusercontent.com/d/",
-            "location": "https://lh3.googleusercontent.com/d/",
-            "encounter": "https://lh3.googleusercontent.com/d/",
-            "contents": "https://lh3.googleusercontent.com/d/"
+            "map": "https://lh3.googleusercontent.com/d/1wG_aEBTMWXqIkNteEoMX-F_RuNdVYE2_",
+            "location": "https://lh3.googleusercontent.com/d/11wjJ7chXTR2mlBU-I0q3EXuLpBsb2gCV",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1SsL8aHNMvuABnK6_mUiq4S9BmHum_BkM"
         }
     },
 
     {
-        "id": 0,
-        "contents": "Iron Armor",
-        "location": "Castle Cornelia",
-        "locked": false,
+        "id": 33,
+        "contents": "Werebuster",
+        "location": "Chaos Shrine",
+        "locked": true,
         "keyItem": false,
         "opened": false,
         "hasEncounter": false,
         "images": {
             "map": "https://lh3.googleusercontent.com/d/",
-            "location": "https://lh3.googleusercontent.com/d/",
+            "location": "https://lh3.googleusercontent.com/d/1cdEanmpltF9YiC859CFQ1ayzIYA0UZJU",
             "encounter": "https://lh3.googleusercontent.com/d/",
-            "contents": "https://lh3.googleusercontent.com/d/"
+            "contents": "https://lh3.googleusercontent.com/d/1l1_bmhWHt72sxwpoGiU6QOwNWrlkIj0Z"
         }
     },
 
