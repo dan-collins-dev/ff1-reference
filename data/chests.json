@@ -520,10 +520,426 @@
         "opened": false,
         "hasEncounter": false,
         "images": {
-            "map": "https://lh3.googleusercontent.com/d/",
+            "map": "https://lh3.googleusercontent.com/d/12Md02oh3FZHRoIixrl9pW8zL-WsmS5-9",
             "location": "https://lh3.googleusercontent.com/d/1cdEanmpltF9YiC859CFQ1ayzIYA0UZJU",
-            "encounter": "https://lh3.googleusercontent.com/d/",
+            "encounter": "",
             "contents": "https://lh3.googleusercontent.com/d/1l1_bmhWHt72sxwpoGiU6QOwNWrlkIj0Z"
+        }
+    },
+
+    {
+        "id": 34,
+        "contents": "Golden Needle",
+        "location": "Chaos Shrine",
+        "locked": true,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/12IK6lkL3Zh_xHbiP6qej2k6oqqw1FAb2",
+            "location": "https://lh3.googleusercontent.com/d/18VBUoRVt-Sum_E5jcm8EtHR9Jfk8wVVh",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/10eRe-6CNdHEFBZHDdmllNCQEAN5ZP_NQ"
+        }
+    },
+
+    {
+        "id": 35,
+        "contents": "Iron Armor",
+        "location": "Castle Cornelia",
+        "locked": true,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/16dWTIsWxj-huh7T9fktXGW7B863TN-Et",
+            "location": "https://lh3.googleusercontent.com/d/14zzx3NZrkIzFv1wYddLwM6kF4RBoIIVd",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1Y_GhN0p3H0HvC5fmK5JkxdIHWFbYO1eZ"
+        }
+    },
+
+    {
+        "id": 36,
+        "contents": "Tent",
+        "location": "Castle Cornelia",
+        "locked": true,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/1nEtquWbmfs6o3MGiDu8SbTzz3yqV9vFU",
+            "location": "https://lh3.googleusercontent.com/d/1tg8LQh6Bn7sdXHLGeAB3ihNZa4NtCbMF",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1srNmdertNXl-HJnAedVZsKgyI-vRbABd"
+        }
+    },
+
+    {
+        "id": 37,
+        "contents": "Nitro Powder",
+        "location": "Castle Cornelia",
+        "locked": true,
+        "keyItem": true,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/1D22nfIoQJVIdap09T9BmW-hpCulwqGf0",
+            "location": "https://lh3.googleusercontent.com/d/17F_e0-oVnWASn7UUGpeI2Y5LklFyn6cm",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1jRksZJkadwanW3CIRKBSeTTXysfA9fEK"
+        }
+    },
+
+    {
+        "id": 38,
+        "contents": "Cottage",
+        "location": "Castle Cornelia",
+        "locked": true,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/1EgO6JEoK7PwD7ZSbVWN7rS9AXt_R7wS4",
+            "location": "https://lh3.googleusercontent.com/d/1gJzC3QiNZMA18_C9oXeZ4BXRqgKtdmL3",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/16d7BiOPGXucBO11ijbktIpbnRx4yVBPb"
+        }
+    },
+
+    {
+        "id": 39,
+        "contents": "Saber",
+        "location": "Castle Cornelia",
+        "locked": true,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/1_Aje5_VruiAXIR5YRnecgK9bZhVomsAd",
+            "location": "https://lh3.googleusercontent.com/d/1PnI2o-Qb3Qih8cIdVI7gCwv-q-xvNVeB",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1iPKuNHCjBeGhN4QePfs2YEtSU3wKlsuZ"
+        }
+    },
+
+    {
+        "id": 40,
+        "contents": "Mytrhil Knife",
+        "location": "Castle Cornelia",
+        "locked": true,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/1_ovfYcCJvpaEGVUtlPHnDuy9ZBX72oqg",
+            "location": "https://lh3.googleusercontent.com/d/1wrAJIKAPzdHPIahh7Vv105vRYPZ7Dv0V",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1TqneX9fH5OxFSbIwHtAwuYORWXd40T1e"
+        }
+    },
+
+    {
+        "id": 41,
+        "contents": "575 gil",
+        "location": "Mt. Duergar",
+        "locked": false,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/1aAa8dYN3GW5kJbDzUacP_xGjqiq6JL-5",
+            "location": "https://lh3.googleusercontent.com/d/1_jYNWy6EJETkv0fL3d410cK2PKL58ylP",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1L6rQr4adX7VCZ7B33hMWVOGacudpe1s0"
+        }
+    },
+
+    {
+        "id": 42,
+        "contents": "450 gil",
+        "location": "Castle Cornelia",
+        "locked": false,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/1VOIfszPz0OJOtQhsHKkYFe_FANpIL0Tm",
+            "location": "https://lh3.googleusercontent.com/d/1AJb6PGBn_jFa70RGsDJRmVb_njCvRmr9",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1lwzOlT10EMouqKxQ69tC7on0OMrTawji"
+        }
+    },
+
+    {
+        "id": 43,
+        "contents": "Tent",
+        "location": "Mt. Duergar",
+        "locked": false,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/1gW3nrDk1DwrFPnHbDQq79pX8qTIyZuzT",
+            "location": "https://lh3.googleusercontent.com/d/1_CV13pHdFkn26rMpjwhJx4Xi3Lh138t9",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1UHtiLGWNF1HHUN_AOoEQBQofMTz71xt5"
+        }
+    },
+
+    {
+        "id": 44,
+        "contents": "Great Helm",
+        "location": "Mt. Duergar",
+        "locked": false,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/1wK1mfqOjbH2aH35648eL8lFGxYL2d9RJ",
+            "location": "https://lh3.googleusercontent.com/d/1KNgseO6cQYDGHPGQ7a_qmlabC5vyFyz3",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1V2HfUQk0QV700jD9oZLijkxDnVXZ9cGM"
+        }
+    },
+
+    {
+        "id": 45,
+        "contents": "Wyrmkiller",
+        "location": "Mt. Duergar",
+        "locked": false,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/1STUlVPfNVKyg6XIKCV-J7UG1FFpB2FT2",
+            "location": "https://lh3.googleusercontent.com/d/1TJImf6WSFminMZ_6O-hrNw3kf40GYyKF",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1yngZJxIHkm2Jr8_wk3zJlUGeWN9nHVFB"
+        }
+    },
+
+    {
+        "id": 46,
+        "contents": "Ether",
+        "location": "Mt. Duergar",
+        "locked": false,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/18Py5yj9MgH6mMXydoGQiNND8T1CRnYNq",
+            "location": "https://lh3.googleusercontent.com/d/1BGkE49qoJVOg0O9mQt6xbpYrCeXlnxhi",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1UPKHXtR81WjzBEia1uIXqBRu76HSX-69"
+        }
+    },
+
+    {
+        "id": 47,
+        "contents": "Potion",
+        "location": "Mt. Duergar",
+        "locked": false,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/1Gtz9_e8G2X9X5hB_O5G9gVwFRv6-unoT",
+            "location": "https://lh3.googleusercontent.com/d/1U4vArDcWqQdJfU8hxPiwBAZ1C5_zJS8a",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1iiHjV5tvYBkXbsmYbwvrkKu9yHbF7Tql"
+        }
+    },
+
+    {
+        "id": 48,
+        "contents": "Mythril Mail",
+        "location": "Mt. Duergar",
+        "locked": false,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/17RETUTaI3WGdR4LvJG3HFAblDbQNcP6w",
+            "location": "https://lh3.googleusercontent.com/d/1F4q0LmuPoJyxWzOcG2JOh0wQOYob2nwH",
+            "encounter": "",
+            "contents": "https://lh3.googleusercontent.com/d/1aPWXsDizWGtXyHKr2yU3tMRvlnUuywWd"
+        }
+    },
+
+    {
+        "id": 49,
+        "contents": "575 gil",
+        "location": "Mt. Duergar",
+        "locked": false,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/1sgnmjpFjz-MMuc46sqMDwlCzmQsfCeZe",
+            "location": "https://lh3.googleusercontent.com/d/1DSx3zQT7Izm8bpHE2KTY2PH9pouaaDmR",
+            "encounter": "https://lh3.googleusercontent.com/d/",
+            "contents": "https://lh3.googleusercontent.com/d/1-V5luaoz34gHyvdI5GVY2h5QC5_GG5s3"
+        }
+    },
+
+    {
+        "id": 0,
+        "contents": "Iron Armor",
+        "location": "Castle Cornelia",
+        "locked": false,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/",
+            "location": "https://lh3.googleusercontent.com/d/",
+            "encounter": "https://lh3.googleusercontent.com/d/",
+            "contents": "https://lh3.googleusercontent.com/d/"
+        }
+    },
+
+    {
+        "id": 0,
+        "contents": "Iron Armor",
+        "location": "Castle Cornelia",
+        "locked": false,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/",
+            "location": "https://lh3.googleusercontent.com/d/",
+            "encounter": "https://lh3.googleusercontent.com/d/",
+            "contents": "https://lh3.googleusercontent.com/d/"
+        }
+    },
+
+    {
+        "id": 0,
+        "contents": "Iron Armor",
+        "location": "Castle Cornelia",
+        "locked": false,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/",
+            "location": "https://lh3.googleusercontent.com/d/",
+            "encounter": "https://lh3.googleusercontent.com/d/",
+            "contents": "https://lh3.googleusercontent.com/d/"
+        }
+    },
+
+    {
+        "id": 0,
+        "contents": "Iron Armor",
+        "location": "Castle Cornelia",
+        "locked": false,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/",
+            "location": "https://lh3.googleusercontent.com/d/",
+            "encounter": "https://lh3.googleusercontent.com/d/",
+            "contents": "https://lh3.googleusercontent.com/d/"
+        }
+    },
+
+    {
+        "id": 0,
+        "contents": "Iron Armor",
+        "location": "Castle Cornelia",
+        "locked": false,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/",
+            "location": "https://lh3.googleusercontent.com/d/",
+            "encounter": "https://lh3.googleusercontent.com/d/",
+            "contents": "https://lh3.googleusercontent.com/d/"
+        }
+    },
+
+    {
+        "id": 0,
+        "contents": "Iron Armor",
+        "location": "Castle Cornelia",
+        "locked": false,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/",
+            "location": "https://lh3.googleusercontent.com/d/",
+            "encounter": "https://lh3.googleusercontent.com/d/",
+            "contents": "https://lh3.googleusercontent.com/d/"
+        }
+    },
+
+    {
+        "id": 0,
+        "contents": "Iron Armor",
+        "location": "Castle Cornelia",
+        "locked": false,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/",
+            "location": "https://lh3.googleusercontent.com/d/",
+            "encounter": "https://lh3.googleusercontent.com/d/",
+            "contents": "https://lh3.googleusercontent.com/d/"
+        }
+    },
+
+    {
+        "id": 0,
+        "contents": "Iron Armor",
+        "location": "Castle Cornelia",
+        "locked": false,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/",
+            "location": "https://lh3.googleusercontent.com/d/",
+            "encounter": "https://lh3.googleusercontent.com/d/",
+            "contents": "https://lh3.googleusercontent.com/d/"
+        }
+    },
+
+    {
+        "id": 0,
+        "contents": "Iron Armor",
+        "location": "Castle Cornelia",
+        "locked": false,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/",
+            "location": "https://lh3.googleusercontent.com/d/",
+            "encounter": "https://lh3.googleusercontent.com/d/",
+            "contents": "https://lh3.googleusercontent.com/d/"
+        }
+    },
+
+    {
+        "id": 0,
+        "contents": "Iron Armor",
+        "location": "Castle Cornelia",
+        "locked": false,
+        "keyItem": false,
+        "opened": false,
+        "hasEncounter": false,
+        "images": {
+            "map": "https://lh3.googleusercontent.com/d/",
+            "location": "https://lh3.googleusercontent.com/d/",
+            "encounter": "https://lh3.googleusercontent.com/d/",
+            "contents": "https://lh3.googleusercontent.com/d/"
         }
     },
 
